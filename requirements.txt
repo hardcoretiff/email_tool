@@ -1,0 +1,9 @@
+# Core dependencies (required)
+pypff>=20211114        # PST file parsing
+pandas>=1.5.0          # Data manipulation and Excel export
+openpyxl>=3.0.0        # Excel file writing engine
+python-dateutil>=2.8.0 # Date parsing
+
+# Optional: AI-powered relevance scoring
+# Uncomment the line below if you want to use Claude for smart email analysis
+# anthropic>=0.18.0

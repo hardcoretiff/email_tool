@@ -1,0 +1,25 @@
+# Marketing Companies List
+# =========================
+# Add one company name, email domain, or email address per line.
+# Lines starting with # are comments and will be ignored.
+# 
+# The tool will match against:
+#   - Sender/recipient email addresses
+#   - Email body content
+#   - Subject lines
+#
+# You can use any of these formats:
+#   - Company name: "ABC Marketing Group"
+#   - Email domain: "abcmarketing.com"
+#   - Full email: "john@abcmarketing.com"
+#   - The tool automatically generates variations (strips LLC, Inc, etc.)
+#
+# REPLACE THESE WITH THE ACTUAL MARKETING COMPANIES FROM JANE'S LIST:
+
+# Example entries (delete these and add real ones):
+ABC Marketing Group
+XYZ Health Solutions LLC
+Premier Medical Marketing
+@healthleads.com
+MedEquip Marketing Partners
+National DME Marketing Inc
